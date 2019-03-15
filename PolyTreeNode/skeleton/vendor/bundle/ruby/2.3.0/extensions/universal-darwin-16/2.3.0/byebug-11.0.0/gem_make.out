@@ -1,0 +1,12 @@
+current directory: /Users/appacademy/Desktop/W1D5/PolyTreeNode/skeleton/vendor/bundle/ruby/2.3.0/gems/byebug-11.0.0/ext/byebug
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190315-62148-184sia3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/appacademy/Desktop/W1D5/PolyTreeNode/skeleton/vendor/bundle/ruby/2.3.0/gems/byebug-11.0.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/appacademy/Desktop/W1D5/PolyTreeNode/skeleton/vendor/bundle/ruby/2.3.0/gems/byebug-11.0.0/ext/byebug
+make "DESTDIR="
+make: *** No rule to make target `/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/include/ruby-2.3.0/universal-darwin16/ruby/config.h', needed by `breakpoint.o'.  Stop.
+
+make failed, exit code 2
