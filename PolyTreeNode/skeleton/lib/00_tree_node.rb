@@ -51,4 +51,8 @@ class PolyTreeNode
         nil
     end
 
+    def inspect
+        "#<KNIGHT: value: #{value}  >"
+    end
+
 end
